@@ -1,6 +1,6 @@
 # Nuxt.js-Task-Management-Full-stack
 
-A Full-stack Task Management application built with Nuxt + Vuetify + NOde(Express) + MongoDB.
+A Full-stack Task Management application built with Nuxt + Vuetify + Node(Express) + MongoDB.
 
 # Fron-end Build Setup
 
