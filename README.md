@@ -2,24 +2,24 @@
 
 A Full-stack Task Management application built with Nuxt + Vuetify + NOde(Express) + MongoDB.
 
-## Fron-end Build Setup
+# Fron-end Build Setup
 
-# install dependencies
+## install dependencies
 npm install
 
-# serve with hot reload at localhost:5000
+## serve with hot reload at localhost:5000
 npm run dev
 
-# build for production with minification
+## build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
+## build for production and view the bundle analyzer report
 npm run build --report
 
-## Back-end Build Setup
+# Back-end Build Setup
 
-# install dependencies
+## install dependencies
 npm install
 
-# serve with hot reload at localhost:7070
+## serve with hot reload at localhost:7070
 npm start
